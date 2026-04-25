@@ -1,1 +1,3596 @@
+{
+  "archetypeCollections" : [
 
+  ],
+  "fileNotes" : "Snapshot genere localement depuis des pages InkDecks sauvegardees dans un navigateur sur Mac.",
+  "generatedAt" : "2026-04-25T11:14:50.826Z",
+  "schemaVersion" : 1,
+  "seasons" : [
+    {
+      "decks" : [
+        {
+          "archetype" : "Evasive",
+          "averagePriceUSD" : 354,
+          "id" : "core-amethyst-sapphire-evasive-1",
+          "inkCombo" : "Amethyst Sapphire",
+          "keyCards" : [
+
+          ],
+          "metaShare" : 22,
+          "rank" : 1,
+          "representativeDeckName" : "Amethyst Sapphire Evasive",
+          "sourceURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/core\/amethyst-sapphire-evasive",
+          "tierLabel" : "Tier 1",
+          "top8Count" : 238,
+          "winRate" : 53
+        },
+        {
+          "archetype" : "Aggro",
+          "averagePriceUSD" : 87,
+          "id" : "core-amber-emerald-aggro-2",
+          "inkCombo" : "Amber Emerald",
+          "keyCards" : [
+
+          ],
+          "metaShare" : 14,
+          "rank" : 2,
+          "representativeDeckName" : "Amber Emerald Aggro",
+          "sourceURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/core\/amber-emerald-aggro",
+          "tierLabel" : "Tier 1",
+          "top8Count" : 132,
+          "winRate" : 51
+        },
+        {
+          "archetype" : "Challengers",
+          "averagePriceUSD" : 334,
+          "id" : "core-amethyst-steel-challengers-3",
+          "inkCombo" : "Amethyst Steel",
+          "keyCards" : [
+
+          ],
+          "metaShare" : 13,
+          "rank" : 3,
+          "representativeDeckName" : "Amethyst Steel Challengers",
+          "sourceURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/core\/amethyst-steel-challengers",
+          "tierLabel" : "Tier 1",
+          "top8Count" : 132,
+          "winRate" : 53
+        },
+        {
+          "archetype" : "Control",
+          "averagePriceUSD" : 196,
+          "id" : "core-emerald-sapphire-control-4",
+          "inkCombo" : "Emerald Sapphire",
+          "keyCards" : [
+
+          ],
+          "metaShare" : 8,
+          "rank" : 4,
+          "representativeDeckName" : "Emerald Sapphire Control",
+          "sourceURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/core\/emerald-sapphire-control",
+          "tierLabel" : "Tier 2",
+          "top8Count" : 107,
+          "winRate" : 49
+        },
+        {
+          "archetype" : "Evasives",
+          "averagePriceUSD" : 269,
+          "id" : "core-amber-amethyst-evasives-5",
+          "inkCombo" : "Amber Amethyst",
+          "keyCards" : [
+
+          ],
+          "metaShare" : 6,
+          "rank" : 5,
+          "representativeDeckName" : "Amber Amethyst Evasives",
+          "sourceURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/core\/amber-amethyst-evasives",
+          "tierLabel" : "Tier 2",
+          "top8Count" : 86,
+          "winRate" : 52
+        },
+        {
+          "archetype" : "Evasives",
+          "averagePriceUSD" : 326,
+          "id" : "core-amethyst-steel-evasives-6",
+          "inkCombo" : "Amethyst Steel",
+          "keyCards" : [
+
+          ],
+          "metaShare" : 6,
+          "rank" : 6,
+          "representativeDeckName" : "Amethyst Steel Evasives",
+          "sourceURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/core\/amethyst-steel-evasives",
+          "tierLabel" : "Tier 2",
+          "top8Count" : 41,
+          "winRate" : 53
+        },
+        {
+          "archetype" : "Steelsong",
+          "averagePriceUSD" : 205,
+          "id" : "core-amber-steel-steelsong-7",
+          "inkCombo" : "Amber Steel",
+          "keyCards" : [
+
+          ],
+          "metaShare" : 5,
+          "rank" : 7,
+          "representativeDeckName" : "Amber Steel Steelsong",
+          "sourceURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/core\/amber-steel-steelsong",
+          "tierLabel" : "Tier 2",
+          "top8Count" : 124,
+          "winRate" : 54
+        },
+        {
+          "archetype" : "Control",
+          "averagePriceUSD" : 283,
+          "id" : "core-amber-sapphire-control-8",
+          "inkCombo" : "Amber Sapphire",
+          "keyCards" : [
+
+          ],
+          "metaShare" : 5,
+          "rank" : 8,
+          "representativeDeckName" : "Amber Sapphire Control",
+          "sourceURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/core\/amber-sapphire-control",
+          "tierLabel" : "Tier 2",
+          "top8Count" : 51,
+          "winRate" : 45
+        },
+        {
+          "archetype" : "Allies",
+          "averagePriceUSD" : 329,
+          "id" : "core-sapphire-steel-allies-9",
+          "inkCombo" : "Sapphire Steel",
+          "keyCards" : [
+
+          ],
+          "metaShare" : 4,
+          "rank" : 9,
+          "representativeDeckName" : "Sapphire Steel Allies",
+          "sourceURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/core\/sapphire-steel-allies",
+          "tierLabel" : "Tier 3",
+          "top8Count" : 46,
+          "winRate" : 52
+        },
+        {
+          "archetype" : "Aggro",
+          "averagePriceUSD" : 124,
+          "id" : "core-amber-steel-aggro-10",
+          "inkCombo" : "Amber Steel",
+          "keyCards" : [
+
+          ],
+          "metaShare" : 4,
+          "rank" : 10,
+          "representativeDeckName" : "Amber Steel Aggro",
+          "sourceURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/core\/amber-steel-aggro",
+          "tierLabel" : "Tier 3",
+          "top8Count" : 13,
+          "winRate" : 40
+        }
+      ],
+      "id" : "core",
+      "lastUpdatedLabel" : "April 25, 2026, 07:09:57 AM",
+      "setCode" : "11",
+      "sourceDetails" : "Top 10 du format Core.",
+      "sourceName" : "InkDecks",
+      "sourceURL" : "https:\/\/inkdecks.com\/lorcana-metagame",
+      "subtitle" : "Winterspell · April 2026 | inkDecks.com",
+      "title" : "Core"
+    },
+    {
+      "decks" : [
+        {
+          "archetype" : "Steelsong",
+          "averagePriceUSD" : 130,
+          "id" : "infinity-amber-steel-steelsong-1",
+          "inkCombo" : "Amber Steel",
+          "keyCards" : [
+
+          ],
+          "metaShare" : 30,
+          "rank" : 1,
+          "representativeDeckName" : "Amber Steel Steelsong",
+          "sourceURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/infinity\/amber-steel-steelsong",
+          "tierLabel" : "Tier 1",
+          "top8Count" : 5,
+          "winRate" : 58
+        },
+        {
+          "archetype" : "Aggro",
+          "averagePriceUSD" : 146,
+          "id" : "infinity-amber-steel-aggro-2",
+          "inkCombo" : "Amber Steel",
+          "keyCards" : [
+
+          ],
+          "metaShare" : 18,
+          "rank" : 2,
+          "representativeDeckName" : "Amber Steel Aggro",
+          "sourceURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/infinity\/amber-steel-aggro",
+          "tierLabel" : "Tier 1",
+          "top8Count" : 5,
+          "winRate" : 50
+        },
+        {
+          "archetype" : "Discard",
+          "averagePriceUSD" : 107,
+          "id" : "infinity-emerald-steel-discard-3",
+          "inkCombo" : "Emerald Steel",
+          "keyCards" : [
+
+          ],
+          "metaShare" : 16,
+          "rank" : 3,
+          "representativeDeckName" : "Emerald Steel Discard",
+          "sourceURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/infinity\/emerald-steel-discard",
+          "tierLabel" : "Tier 2",
+          "top8Count" : 1,
+          "winRate" : 60
+        },
+        {
+          "archetype" : "Discard",
+          "averagePriceUSD" : 70,
+          "id" : "infinity-amber-emerald-discard-4",
+          "inkCombo" : "Amber Emerald",
+          "keyCards" : [
+
+          ],
+          "metaShare" : 13,
+          "rank" : 4,
+          "representativeDeckName" : "Amber Emerald Discard",
+          "sourceURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/infinity\/amber-emerald-discard",
+          "tierLabel" : "Tier 2",
+          "top8Count" : 1,
+          "winRate" : 53
+        },
+        {
+          "archetype" : "Items",
+          "averagePriceUSD" : 99,
+          "id" : "infinity-ruby-sapphire-items-5",
+          "inkCombo" : "Ruby Sapphire",
+          "keyCards" : [
+
+          ],
+          "metaShare" : 9,
+          "rank" : 5,
+          "representativeDeckName" : "Ruby Sapphire Items",
+          "sourceURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/infinity\/ruby-sapphire-items",
+          "tierLabel" : "Tier 2",
+          "top8Count" : 1,
+          "winRate" : 50
+        },
+        {
+          "archetype" : "Tempo",
+          "averagePriceUSD" : 81,
+          "id" : "infinity-amethyst-steel-tempo-6",
+          "inkCombo" : "Amethyst Steel",
+          "keyCards" : [
+
+          ],
+          "metaShare" : 8,
+          "rank" : 6,
+          "representativeDeckName" : "Amethyst Steel Tempo",
+          "sourceURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/infinity\/amethyst-steel-tempo",
+          "tierLabel" : "Tier 3",
+          "top8Count" : 4,
+          "winRate" : 38
+        },
+        {
+          "archetype" : "Chernadog",
+          "averagePriceUSD" : 138,
+          "id" : "infinity-amber-emerald-chernadog-7",
+          "inkCombo" : "Amber Emerald",
+          "keyCards" : [
+
+          ],
+          "metaShare" : 5,
+          "rank" : 7,
+          "representativeDeckName" : "Amber Emerald Chernadog",
+          "sourceURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/infinity\/amber-emerald-chernadog",
+          "tierLabel" : "Tier 3",
+          "top8Count" : 0,
+          "winRate" : 50
+        },
+        {
+          "archetype" : "Aggro",
+          "averagePriceUSD" : 110,
+          "id" : "infinity-amber-emerald-aggro-8",
+          "inkCombo" : "Amber Emerald",
+          "keyCards" : [
+
+          ],
+          "metaShare" : 4,
+          "rank" : 8,
+          "representativeDeckName" : "Amber Emerald Aggro",
+          "sourceURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/infinity\/amber-emerald-aggro",
+          "tierLabel" : "Tier 4",
+          "top8Count" : 0,
+          "winRate" : 17
+        }
+      ],
+      "id" : "infinity",
+      "lastUpdatedLabel" : "April 25, 2026, 07:09:57 AM",
+      "setCode" : "11",
+      "sourceDetails" : "Top 8 du format Infinity.",
+      "sourceName" : "InkDecks",
+      "sourceURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/infinity",
+      "subtitle" : "Winterspell · April 2026 | inkDecks.com",
+      "title" : "Infinity"
+    }
+  ],
+  "topDeckCollections" : [
+    {
+      "decks" : [
+        {
+          "cards" : [
+            {
+              "colorLabel" : "Acier",
+              "id" : "characters-captain-hook-forceful-duelist-4",
+              "name" : "Captain Hook - Forceful Duelist",
+              "priceLabel" : "$0.12",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-diablo-obedient-raven-2",
+              "name" : "Diablo - Obedient Raven",
+              "priceLabel" : "$1.26",
+              "quantity" : 2,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-olaf-helping-hand-2",
+              "name" : "Olaf - Helping Hand",
+              "priceLabel" : "$0.18",
+              "quantity" : 2,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-palace-guard-spectral-sentry-4",
+              "name" : "Palace Guard - Spectral Sentry",
+              "priceLabel" : "$0.21",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-christopher-robin-joining-the-fun-4",
+              "name" : "Christopher Robin - Joining the Fun",
+              "priceLabel" : "$0.17",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "characters-doc-bold-knight-4",
+              "name" : "Doc - Bold Knight",
+              "priceLabel" : "$5.50",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-cheshire-cat-inexplicable-3",
+              "name" : "Cheshire Cat - Inexplicable",
+              "priceLabel" : "$3.83",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-genie-magical-researcher-3",
+              "name" : "Genie - Magical Researcher",
+              "priceLabel" : "$0.70",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "characters-giant-cobra-ghostly-serpent-3",
+              "name" : "Giant Cobra - Ghostly Serpent",
+              "priceLabel" : "$0.26",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "characters-lexington-small-in-stature-3",
+              "name" : "Lexington - Small in Stature",
+              "priceLabel" : "$0.18",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "characters-angel-experiment-624-3",
+              "name" : "Angel - Experiment 624",
+              "priceLabel" : "$31.05",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-genie-wish-fulfilled-4",
+              "name" : "Genie - Wish Fulfilled",
+              "priceLabel" : "$3.43",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-yzma-conniving-chemist-3",
+              "name" : "Yzma - Conniving Chemist",
+              "priceLabel" : "$8.46",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-elsa-the-fifth-spirit-4",
+              "name" : "Elsa - The Fifth Spirit",
+              "priceLabel" : "$1.58",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-hades-looking-for-a-deal-3",
+              "name" : "Hades - Looking for a Deal",
+              "priceLabel" : "$17.76",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-demona-scourge-of-the-wyvern-clan-4",
+              "name" : "Demona - Scourge of the Wyvern Clan",
+              "priceLabel" : "$25.57",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "actions-fire-the-cannons-3",
+              "name" : "Fire the Cannons!",
+              "priceLabel" : "$0.08",
+              "quantity" : 3,
+              "section" : "Actions"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "songs-strength-of-a-raging-fire-4",
+              "name" : "Strength of a Raging Fire",
+              "priceLabel" : "$2.42",
+              "quantity" : 4,
+              "section" : "Songs"
+            }
+          ],
+          "downloadedAt" : "2026-04-25T11:09:28.934Z",
+          "summary" : {
+            "archetype" : "Challengers",
+            "author" : "TSR-BBop",
+            "detailURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/deck-ftc-ps-510224",
+            "eventName" : "Spieltag 4 Division 1: Team Secret Rare - MRO’s Glimmer Gang @Luminari Teamliga",
+            "formatLabel" : "Core",
+            "id" : "ftc-ps-tsr-bbop-2026-04-22",
+            "metaLabel" : "21%",
+            "playedOn" : "2026-04-22",
+            "playersLabel" : "6 Players",
+            "priceLabel" : "$349.11",
+            "setCode" : "11",
+            "title" : "FTC PS"
+          }
+        },
+        {
+          "cards" : [
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-clarabelle-clumsy-guest-4",
+              "name" : "Clarabelle - Clumsy Guest",
+              "priceLabel" : "$0.10",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-tipo-growing-son-4",
+              "name" : "Tipo - Growing Son",
+              "priceLabel" : "$1.23",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-prince-phillip-royal-explorer-4",
+              "name" : "Prince Phillip - Royal Explorer",
+              "priceLabel" : "$0.28",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-cinderella-dream-come-true-4",
+              "name" : "Cinderella - Dream Come True",
+              "priceLabel" : "$28.46",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-donald-duck-perfect-gentleman-4",
+              "name" : "Donald Duck - Perfect Gentleman",
+              "priceLabel" : "$0.14",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-moana-curious-explorer-3",
+              "name" : "Moana - Curious Explorer",
+              "priceLabel" : "$12.46",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-john-silver-alien-pirate-4",
+              "name" : "John Silver - Alien Pirate",
+              "priceLabel" : "$1.68",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-clarabelle-light-on-her-hooves-4",
+              "name" : "Clarabelle - Light on Her Hooves",
+              "priceLabel" : "$11.41",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-prince-phillip-vanquisher-of-foes-4",
+              "name" : "Prince Phillip - Vanquisher of Foes",
+              "priceLabel" : "$0.52",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "actions-develop-your-brain-4",
+              "name" : "Develop Your Brain",
+              "priceLabel" : "$0.08",
+              "quantity" : 4,
+              "section" : "Actions"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "actions-sail-the-azurite-sea-4",
+              "name" : "Sail the Azurite Sea",
+              "priceLabel" : "$1.19",
+              "quantity" : 4,
+              "section" : "Actions"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "actions-vision-of-the-future-4",
+              "name" : "Vision of the Future",
+              "priceLabel" : "$0.20",
+              "quantity" : 4,
+              "section" : "Actions"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "actions-ink-geyser-2",
+              "name" : "Ink Geyser",
+              "priceLabel" : "$0.42",
+              "quantity" : 2,
+              "section" : "Actions"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "songs-malicious-mean-and-scary-4",
+              "name" : "Malicious, Mean, and Scary",
+              "priceLabel" : "$0.26",
+              "quantity" : 4,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "songs-you-re-welcome-4",
+              "name" : "You're Welcome",
+              "priceLabel" : "$0.34",
+              "quantity" : 4,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "songs-under-the-sea-3",
+              "name" : "Under the Sea",
+              "priceLabel" : "$0.52",
+              "quantity" : 3,
+              "section" : "Songs"
+            }
+          ],
+          "downloadedAt" : "2026-04-25T11:09:30.509Z",
+          "summary" : {
+            "archetype" : "Control",
+            "author" : "TSR-Mohoo",
+            "detailURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/deck-die-kuh-macht-muh-510223",
+            "eventName" : "Spieltag 4 Division 1: Team Secret Rare - MRO’s Glimmer Gang @Luminari Teamliga",
+            "formatLabel" : "Core",
+            "id" : "die-kuh-macht-muh-tsr-mohoo-2026-04-22",
+            "metaLabel" : "17%",
+            "playedOn" : "2026-04-22",
+            "playersLabel" : "6 Players",
+            "priceLabel" : "$225.14",
+            "setCode" : "11",
+            "title" : "Die Kuh macht Muh!"
+          }
+        },
+        {
+          "cards" : [
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-clarabelle-clumsy-guest-4",
+              "name" : "Clarabelle - Clumsy Guest",
+              "priceLabel" : "$0.10",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-tipo-growing-son-4",
+              "name" : "Tipo - Growing Son",
+              "priceLabel" : "$1.23",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-prince-phillip-royal-explorer-4",
+              "name" : "Prince Phillip - Royal Explorer",
+              "priceLabel" : "$0.28",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-cinderella-dream-come-true-4",
+              "name" : "Cinderella - Dream Come True",
+              "priceLabel" : "$28.46",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-donald-duck-perfect-gentleman-4",
+              "name" : "Donald Duck - Perfect Gentleman",
+              "priceLabel" : "$0.14",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-john-silver-alien-pirate-4",
+              "name" : "John Silver - Alien Pirate",
+              "priceLabel" : "$1.68",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-basil-undercover-detective-3",
+              "name" : "Basil - Undercover Detective",
+              "priceLabel" : "$1.12",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-clarabelle-light-on-her-hooves-4",
+              "name" : "Clarabelle - Light on Her Hooves",
+              "priceLabel" : "$11.41",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-prince-phillip-vanquisher-of-foes-4",
+              "name" : "Prince Phillip - Vanquisher of Foes",
+              "priceLabel" : "$0.52",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "actions-develop-your-brain-4",
+              "name" : "Develop Your Brain",
+              "priceLabel" : "$0.08",
+              "quantity" : 4,
+              "section" : "Actions"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "actions-sail-the-azurite-sea-4",
+              "name" : "Sail the Azurite Sea",
+              "priceLabel" : "$1.19",
+              "quantity" : 4,
+              "section" : "Actions"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "actions-vision-of-the-future-4",
+              "name" : "Vision of the Future",
+              "priceLabel" : "$0.20",
+              "quantity" : 4,
+              "section" : "Actions"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "actions-ink-geyser-1",
+              "name" : "Ink Geyser",
+              "priceLabel" : "$0.42",
+              "quantity" : 1,
+              "section" : "Actions"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "actions-bend-to-my-will-1",
+              "name" : "Bend to My Will",
+              "priceLabel" : "$0.25",
+              "quantity" : 1,
+              "section" : "Actions"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "songs-malicious-mean-and-scary-4",
+              "name" : "Malicious, Mean, and Scary",
+              "priceLabel" : "$0.26",
+              "quantity" : 4,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "songs-you-re-welcome-4",
+              "name" : "You're Welcome",
+              "priceLabel" : "$0.34",
+              "quantity" : 4,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "songs-under-the-sea-3",
+              "name" : "Under the Sea",
+              "priceLabel" : "$0.52",
+              "quantity" : 3,
+              "section" : "Songs"
+            }
+          ],
+          "downloadedAt" : "2026-04-25T11:09:32.090Z",
+          "summary" : {
+            "archetype" : "Control",
+            "author" : "TSR-Henksen",
+            "detailURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/deck-bg-ltd-22-04-2026-510222",
+            "eventName" : "Spieltag 4 Division 1: Team Secret Rare - MRO’s Glimmer Gang @Luminari Teamliga",
+            "formatLabel" : "Core",
+            "id" : "bg-ltd-22-04-2026-tsr-henksen-2026-04-22",
+            "metaLabel" : "13%",
+            "playedOn" : "2026-04-22",
+            "playersLabel" : "6 Players",
+            "priceLabel" : "$191.25",
+            "setCode" : "11",
+            "title" : "BG - LTD 22.04.2026"
+          }
+        },
+        {
+          "cards" : [
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-bobby-zimuruski-spray-cheese-kid-4",
+              "name" : "Bobby Zimuruski - Spray Cheese Kid",
+              "priceLabel" : "$0.66",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-daisy-duck-donald-s-date-4",
+              "name" : "Daisy Duck - Donald's Date",
+              "priceLabel" : "$4.95",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-lady-decisive-dog-4",
+              "name" : "Lady - Decisive Dog",
+              "priceLabel" : "$1.08",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-lady-elegant-spaniel-3",
+              "name" : "Lady - Elegant Spaniel",
+              "priceLabel" : "$0.14",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-webby-vanderquack-mystery-enthusiast-4",
+              "name" : "Webby Vanderquack - Mystery Enthusiast",
+              "priceLabel" : "$0.08",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-go-go-tomago-darting-dynamo-3",
+              "name" : "Go Go Tomago - Darting Dynamo",
+              "priceLabel" : "$2.28",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-grandmother-willow-ancient-advisor-4",
+              "name" : "Grandmother Willow - Ancient Advisor",
+              "priceLabel" : "$0.78",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-lilo-escape-artist-4",
+              "name" : "Lilo - Escape Artist",
+              "priceLabel" : "$3.52",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-mowgli-man-cub-3",
+              "name" : "Mowgli - Man Cub",
+              "priceLabel" : "$2.50",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-mulan-resourceful-recruit-2",
+              "name" : "Mulan - Resourceful Recruit",
+              "priceLabel" : "$0.78",
+              "quantity" : 2,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-scrooge-mcduck-s-h-u-s-h-agent-1",
+              "name" : "Scrooge McDuck - S.H.U.S.H. Agent",
+              "priceLabel" : "$0.59",
+              "quantity" : 1,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-tramp-enterprising-dog-4",
+              "name" : "Tramp - Enterprising Dog",
+              "priceLabel" : "$3.33",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-ursula-deceiver-4",
+              "name" : "Ursula - Deceiver",
+              "priceLabel" : "$0.18",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-lady-family-dog-1",
+              "name" : "Lady - Family Dog",
+              "priceLabel" : "$3.47",
+              "quantity" : 1,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-nani-stage-manager-4",
+              "name" : "Nani - Stage Manager",
+              "priceLabel" : "$0.31",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-lady-miss-park-avenue-4",
+              "name" : "Lady - Miss Park Avenue",
+              "priceLabel" : "$3.66",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-tramp-street-smart-dog-4",
+              "name" : "Tramp - Street-Smart Dog",
+              "priceLabel" : "$1.13",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "items-emerald-chromicon-3",
+              "name" : "Emerald Chromicon",
+              "priceLabel" : "$0.20",
+              "quantity" : 3,
+              "section" : "Items"
+            }
+          ],
+          "downloadedAt" : "2026-04-25T11:09:33.652Z",
+          "summary" : {
+            "archetype" : "Aggro",
+            "author" : "MGG | DanW15",
+            "detailURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/deck-landdogs-510220",
+            "eventName" : "Spieltag 4 Division 1: Team Secret Rare - MRO’s Glimmer Gang @Luminari Teamliga",
+            "formatLabel" : "Core",
+            "id" : "landdogs-mgg-danw15-2026-04-22",
+            "metaLabel" : "28%",
+            "playedOn" : "2026-04-22",
+            "playersLabel" : "6 Players",
+            "priceLabel" : "$101.19",
+            "setCode" : "11",
+            "title" : "Landdogs"
+          }
+        },
+        {
+          "cards" : [
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-diablo-obedient-raven-4",
+              "name" : "Diablo - Obedient Raven",
+              "priceLabel" : "$1.26",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Rubis",
+              "id" : "characters-moana-self-taught-sailor-4",
+              "name" : "Moana - Self-Taught Sailor",
+              "priceLabel" : "$0.07",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-palace-guard-spectral-sentry-4",
+              "name" : "Palace Guard - Spectral Sentry",
+              "priceLabel" : "$0.21",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Rubis",
+              "id" : "characters-brooklyn-second-in-command-4",
+              "name" : "Brooklyn - Second in Command",
+              "priceLabel" : "$0.09",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-christopher-robin-joining-the-fun-4",
+              "name" : "Christopher Robin - Joining the Fun",
+              "priceLabel" : "$0.17",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Rubis",
+              "id" : "characters-diablo-watchful-raven-3",
+              "name" : "Diablo - Watchful Raven",
+              "priceLabel" : "$0.32",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-pocahontas-following-the-wind-1",
+              "name" : "Pocahontas - Following the Wind",
+              "priceLabel" : "$1.25",
+              "quantity" : 1,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-the-white-rose-jewel-of-the-garden-4",
+              "name" : "The White Rose - Jewel of the Garden",
+              "priceLabel" : "$0.15",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-dolores-madrigal-easy-listener-4",
+              "name" : "Dolores Madrigal - Easy Listener",
+              "priceLabel" : "$0.05",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-genie-wish-fulfilled-4",
+              "name" : "Genie - Wish Fulfilled",
+              "priceLabel" : "$3.43",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Rubis",
+              "id" : "characters-goliath-guardian-of-castle-wyvern-4",
+              "name" : "Goliath - Guardian of Castle Wyvern",
+              "priceLabel" : "$0.12",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-eeyore-in-the-way-4",
+              "name" : "Eeyore - In the Way",
+              "priceLabel" : "$0.17",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "items-amethyst-chromicon-4",
+              "name" : "Amethyst Chromicon",
+              "priceLabel" : "$0.27",
+              "quantity" : 4,
+              "section" : "Items"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "items-junior-woodchuck-guidebook-4",
+              "name" : "Junior Woodchuck Guidebook",
+              "priceLabel" : "$0.11",
+              "quantity" : 4,
+              "section" : "Items"
+            },
+            {
+              "colorLabel" : "Rubis",
+              "id" : "actions-thievery-4",
+              "name" : "Thievery",
+              "priceLabel" : "$0.07",
+              "quantity" : 4,
+              "section" : "Actions"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "actions-gathering-knowledge-and-wisdom-4",
+              "name" : "Gathering Knowledge and Wisdom",
+              "priceLabel" : "$0.16",
+              "quantity" : 4,
+              "section" : "Actions"
+            }
+          ],
+          "downloadedAt" : "2026-04-25T11:09:35.303Z",
+          "summary" : {
+            "archetype" : "Spieltag 4 Division 1: Team Secret Rare - MRO’s Glimmer Gang @Luminari Teamliga",
+            "author" : "MGG MAXING",
+            "detailURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/deck-mgg-maxing-510214",
+            "eventName" : "Other",
+            "formatLabel" : "Core",
+            "id" : "mgg-maxing-mgg-maxing-2026-04-22",
+            "metaLabel" : "81%",
+            "playedOn" : "2026-04-22",
+            "playersLabel" : "6 Players",
+            "priceLabel" : "$27.69",
+            "setCode" : "11",
+            "title" : "MGG MAXING"
+          }
+        },
+        {
+          "cards" : [
+            {
+              "colorLabel" : "Acier",
+              "id" : "characters-captain-hook-forceful-duelist-4",
+              "name" : "Captain Hook - Forceful Duelist",
+              "priceLabel" : "$0.12",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-olaf-helping-hand-4",
+              "name" : "Olaf - Helping Hand",
+              "priceLabel" : "$0.18",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-palace-guard-spectral-sentry-2",
+              "name" : "Palace Guard - Spectral Sentry",
+              "priceLabel" : "$0.21",
+              "quantity" : 2,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "characters-calhoun-marine-sergeant-3",
+              "name" : "Calhoun - Marine Sergeant",
+              "priceLabel" : "$2.43",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-christopher-robin-joining-the-fun-4",
+              "name" : "Christopher Robin - Joining the Fun",
+              "priceLabel" : "$0.17",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "characters-doc-bold-knight-4",
+              "name" : "Doc - Bold Knight",
+              "priceLabel" : "$5.50",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-cheshire-cat-inexplicable-4",
+              "name" : "Cheshire Cat - Inexplicable",
+              "priceLabel" : "$3.83",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-genie-magical-researcher-4",
+              "name" : "Genie - Magical Researcher",
+              "priceLabel" : "$0.70",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "characters-giant-cobra-ghostly-serpent-4",
+              "name" : "Giant Cobra - Ghostly Serpent",
+              "priceLabel" : "$0.26",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "characters-angel-experiment-624-4",
+              "name" : "Angel - Experiment 624",
+              "priceLabel" : "$31.05",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-genie-wish-fulfilled-4",
+              "name" : "Genie - Wish Fulfilled",
+              "priceLabel" : "$3.43",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-yzma-conniving-chemist-4",
+              "name" : "Yzma - Conniving Chemist",
+              "priceLabel" : "$8.46",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-elsa-the-fifth-spirit-4",
+              "name" : "Elsa - The Fifth Spirit",
+              "priceLabel" : "$1.58",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-hades-looking-for-a-deal-3",
+              "name" : "Hades - Looking for a Deal",
+              "priceLabel" : "$17.76",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-demona-scourge-of-the-wyvern-clan-4",
+              "name" : "Demona - Scourge of the Wyvern Clan",
+              "priceLabel" : "$25.57",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "songs-strength-of-a-raging-fire-4",
+              "name" : "Strength of a Raging Fire",
+              "priceLabel" : "$2.42",
+              "quantity" : 4,
+              "section" : "Songs"
+            }
+          ],
+          "downloadedAt" : "2026-04-25T11:09:36.875Z",
+          "summary" : {
+            "archetype" : "Challengers",
+            "author" : "MGG | Severin",
+            "detailURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/deck-lila-stahl-set-11-510210",
+            "eventName" : "Spieltag 4 Division 1: Team Secret Rare - MRO’s Glimmer Gang @Luminari Teamliga",
+            "formatLabel" : "Core",
+            "id" : "lila-stahl-set-11-mgg-severin-2026-04-22",
+            "metaLabel" : "22%",
+            "playedOn" : "2026-04-22",
+            "playersLabel" : "6 Players",
+            "priceLabel" : "$398.03",
+            "setCode" : "11",
+            "title" : "Lila\/Stahl (Set 11)"
+          }
+        },
+        {
+          "cards" : [
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-bobby-zimuruski-spray-cheese-kid-4",
+              "name" : "Bobby Zimuruski - Spray Cheese Kid",
+              "priceLabel" : "$0.66",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-daisy-duck-donald-s-date-4",
+              "name" : "Daisy Duck - Donald's Date",
+              "priceLabel" : "$4.95",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-lady-decisive-dog-4",
+              "name" : "Lady - Decisive Dog",
+              "priceLabel" : "$1.08",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-webby-vanderquack-mystery-enthusiast-4",
+              "name" : "Webby Vanderquack - Mystery Enthusiast",
+              "priceLabel" : "$0.08",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-go-go-tomago-darting-dynamo-3",
+              "name" : "Go Go Tomago - Darting Dynamo",
+              "priceLabel" : "$2.28",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-grandmother-willow-ancient-advisor-4",
+              "name" : "Grandmother Willow - Ancient Advisor",
+              "priceLabel" : "$0.78",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-lilo-escape-artist-4",
+              "name" : "Lilo - Escape Artist",
+              "priceLabel" : "$3.52",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-mowgli-man-cub-2",
+              "name" : "Mowgli - Man Cub",
+              "priceLabel" : "$2.50",
+              "quantity" : 2,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-tramp-enterprising-dog-4",
+              "name" : "Tramp - Enterprising Dog",
+              "priceLabel" : "$3.33",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-ursula-deceiver-4",
+              "name" : "Ursula - Deceiver",
+              "priceLabel" : "$0.18",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-nani-stage-manager-3",
+              "name" : "Nani - Stage Manager",
+              "priceLabel" : "$0.31",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-donald-duck-perfect-gentleman-3",
+              "name" : "Donald Duck - Perfect Gentleman",
+              "priceLabel" : "$0.14",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-webby-vanderquack-junior-prospector-3",
+              "name" : "Webby Vanderquack - Junior Prospector",
+              "priceLabel" : "$5.58",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-lady-miss-park-avenue-4",
+              "name" : "Lady - Miss Park Avenue",
+              "priceLabel" : "$3.66",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-tramp-dapper-rascal-2",
+              "name" : "Tramp - Dapper Rascal",
+              "priceLabel" : "$0.50",
+              "quantity" : 2,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-tramp-street-smart-dog-4",
+              "name" : "Tramp - Street-Smart Dog",
+              "priceLabel" : "$1.13",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "items-snow-fort-4",
+              "name" : "Snow Fort",
+              "priceLabel" : "$0.21",
+              "quantity" : 4,
+              "section" : "Items"
+            }
+          ],
+          "downloadedAt" : "2026-04-25T11:09:38.453Z",
+          "summary" : {
+            "archetype" : "Aggro",
+            "author" : "7S McLovin",
+            "detailURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/deck-ich-spiel-einfach-hunde-510126",
+            "eventName" : "Spieltag 4 Division 1: Playing Ducks - 7 Serpents TCG @Luminari Teamliga",
+            "formatLabel" : "Core",
+            "id" : "ich-spiel-einfach-hunde-7s-mclovin-2026-04-21",
+            "metaLabel" : "33%",
+            "playedOn" : "2026-04-21",
+            "playersLabel" : "6 Players",
+            "priceLabel" : "$112.93",
+            "setCode" : "11",
+            "title" : "Ich spiel einfach Hunde"
+          }
+        },
+        {
+          "cards" : [
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-clarabelle-clumsy-guest-4",
+              "name" : "Clarabelle - Clumsy Guest",
+              "priceLabel" : "$0.10",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-tipo-growing-son-4",
+              "name" : "Tipo - Growing Son",
+              "priceLabel" : "$1.23",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-prince-phillip-royal-explorer-4",
+              "name" : "Prince Phillip - Royal Explorer",
+              "priceLabel" : "$0.28",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-cinderella-dream-come-true-4",
+              "name" : "Cinderella - Dream Come True",
+              "priceLabel" : "$28.46",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-donald-duck-perfect-gentleman-4",
+              "name" : "Donald Duck - Perfect Gentleman",
+              "priceLabel" : "$0.14",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-moana-curious-explorer-3",
+              "name" : "Moana - Curious Explorer",
+              "priceLabel" : "$12.46",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-john-silver-alien-pirate-4",
+              "name" : "John Silver - Alien Pirate",
+              "priceLabel" : "$1.68",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-clarabelle-light-on-her-hooves-4",
+              "name" : "Clarabelle - Light on Her Hooves",
+              "priceLabel" : "$11.41",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-prince-phillip-vanquisher-of-foes-4",
+              "name" : "Prince Phillip - Vanquisher of Foes",
+              "priceLabel" : "$0.52",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "actions-develop-your-brain-4",
+              "name" : "Develop Your Brain",
+              "priceLabel" : "$0.08",
+              "quantity" : 4,
+              "section" : "Actions"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "actions-sail-the-azurite-sea-4",
+              "name" : "Sail the Azurite Sea",
+              "priceLabel" : "$1.19",
+              "quantity" : 4,
+              "section" : "Actions"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "actions-vision-of-the-future-4",
+              "name" : "Vision of the Future",
+              "priceLabel" : "$0.20",
+              "quantity" : 4,
+              "section" : "Actions"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "actions-ink-geyser-2",
+              "name" : "Ink Geyser",
+              "priceLabel" : "$0.42",
+              "quantity" : 2,
+              "section" : "Actions"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "songs-malicious-mean-and-scary-4",
+              "name" : "Malicious, Mean, and Scary",
+              "priceLabel" : "$0.26",
+              "quantity" : 4,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "songs-you-re-welcome-4",
+              "name" : "You're Welcome",
+              "priceLabel" : "$0.34",
+              "quantity" : 4,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "songs-stopped-chaos-in-its-tracks-1",
+              "name" : "Stopped Chaos in Its Tracks",
+              "priceLabel" : "$0.09",
+              "quantity" : 1,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "songs-under-the-sea-2",
+              "name" : "Under the Sea",
+              "priceLabel" : "$0.52",
+              "quantity" : 2,
+              "section" : "Songs"
+            }
+          ],
+          "downloadedAt" : "2026-04-25T11:09:40.076Z",
+          "summary" : {
+            "archetype" : "Control",
+            "author" : "Playing Ducks | Freakout",
+            "detailURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/deck-kuh-gegen-schlange-510124",
+            "eventName" : "Spieltag 4 Division 1: Playing Ducks - 7 Serpents TCG @Luminari Teamliga",
+            "formatLabel" : "Core",
+            "id" : "kuh-gegen-schlange-playing-ducks-freakout-2026-04-21",
+            "metaLabel" : "17%",
+            "playedOn" : "2026-04-21",
+            "playersLabel" : "6 Players",
+            "priceLabel" : "$225.90",
+            "setCode" : "11",
+            "title" : "Kuh gegen Schlange"
+          }
+        },
+        {
+          "cards" : [
+            {
+              "colorLabel" : "Acier",
+              "id" : "characters-mulan-disguised-soldier-3",
+              "name" : "Mulan - Disguised Soldier",
+              "priceLabel" : "$0.18",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-rhino-one-sixteenth-wolf-4",
+              "name" : "Rhino - One-Sixteenth Wolf",
+              "priceLabel" : "$0.17",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-angel-siren-singer-4",
+              "name" : "Angel - Siren Singer",
+              "priceLabel" : "$0.20",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "characters-doc-bold-knight-4",
+              "name" : "Doc - Bold Knight",
+              "priceLabel" : "$5.50",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-lilo-escape-artist-3",
+              "name" : "Lilo - Escape Artist",
+              "priceLabel" : "$3.52",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-mowgli-man-cub-2",
+              "name" : "Mowgli - Man Cub",
+              "priceLabel" : "$2.50",
+              "quantity" : 2,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "characters-the-troubadour-musical-narrator-4",
+              "name" : "The Troubadour - Musical Narrator",
+              "priceLabel" : "$0.29",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-nani-stage-manager-4",
+              "name" : "Nani - Stage Manager",
+              "priceLabel" : "$0.31",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "characters-angel-experiment-624-4",
+              "name" : "Angel - Experiment 624",
+              "priceLabel" : "$31.05",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-ariel-ethereal-voice-2",
+              "name" : "Ariel - Ethereal Voice",
+              "priceLabel" : "$0.96",
+              "quantity" : 2,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-chief-powhatan-protective-leader-3",
+              "name" : "Chief Powhatan - Protective Leader",
+              "priceLabel" : "$0.10",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "characters-rhino-power-hamster-4",
+              "name" : "Rhino - Power Hamster",
+              "priceLabel" : "$1.58",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-stitch-carefree-snowboarder-3",
+              "name" : "Stitch - Carefree Snowboarder",
+              "priceLabel" : "$0.86",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "characters-goliath-clan-leader-2",
+              "name" : "Goliath - Clan Leader",
+              "priceLabel" : "$12.18",
+              "quantity" : 2,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "songs-akood-et-emuti-4",
+              "name" : "Akood et Emuti",
+              "priceLabel" : "$1.95",
+              "quantity" : 4,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "songs-strength-of-a-raging-fire-4",
+              "name" : "Strength of a Raging Fire",
+              "priceLabel" : "$2.42",
+              "quantity" : 4,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "songs-world-s-greatest-criminal-mind-2",
+              "name" : "World's Greatest Criminal Mind",
+              "priceLabel" : "$0.11",
+              "quantity" : 2,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "songs-he-hurled-his-thunderbolt-4",
+              "name" : "He Hurled His Thunderbolt",
+              "priceLabel" : "$0.40",
+              "quantity" : 4,
+              "section" : "Songs"
+            }
+          ],
+          "downloadedAt" : "2026-04-25T11:09:41.720Z",
+          "summary" : {
+            "archetype" : "Steelsong",
+            "author" : "Playing Ducks | SchonOK",
+            "detailURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/deck-send-mir-nen-engel-ich-kann-nicht-mehr-510123",
+            "eventName" : "Spieltag 4 Division 1: Playing Ducks - 7 Serpents TCG @Luminari Teamliga",
+            "formatLabel" : "Core",
+            "id" : "send-mir-nen-engel-ich-kann-nicht-mehr-playing-ducks-schonok-2026-04-21",
+            "metaLabel" : "37%",
+            "playedOn" : "2026-04-21",
+            "playersLabel" : "6 Players",
+            "priceLabel" : "$226.35",
+            "setCode" : "11",
+            "title" : "Send mir nen Engel, ich kann nicht mehr 🎶"
+          }
+        },
+        {
+          "cards" : [
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-basil-practiced-detective-4",
+              "name" : "Basil - Practiced Detective",
+              "priceLabel" : "$0.15",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-royal-guard-octopus-soldier-4",
+              "name" : "Royal Guard - Octopus Soldier",
+              "priceLabel" : "$0.17",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-tipo-growing-son-4",
+              "name" : "Tipo - Growing Son",
+              "priceLabel" : "$1.23",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-cheshire-cat-inexplicable-4",
+              "name" : "Cheshire Cat - Inexplicable",
+              "priceLabel" : "$3.83",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-demona-betrayer-of-the-clan-2",
+              "name" : "Demona - Betrayer of the Clan",
+              "priceLabel" : "$0.10",
+              "quantity" : 2,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-dumbo-ninth-wonder-of-the-universe-3",
+              "name" : "Dumbo - Ninth Wonder of the Universe",
+              "priceLabel" : "$33.33",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-genie-wish-fulfilled-2",
+              "name" : "Genie - Wish Fulfilled",
+              "priceLabel" : "$3.43",
+              "quantity" : 2,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-iago-giant-spectral-parrot-2",
+              "name" : "Iago - Giant Spectral Parrot",
+              "priceLabel" : "$1.42",
+              "quantity" : 2,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-isis-vanderchill-ice-queen-of-st-canard-2",
+              "name" : "Isis Vanderchill - Ice Queen of St. Canard",
+              "priceLabel" : "$0.06",
+              "quantity" : 2,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-elsa-the-fifth-spirit-4",
+              "name" : "Elsa - The Fifth Spirit",
+              "priceLabel" : "$1.58",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-hades-looking-for-a-deal-3",
+              "name" : "Hades - Looking for a Deal",
+              "priceLabel" : "$17.76",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-scuttle-birdbrained-1",
+              "name" : "Scuttle - Birdbrained",
+              "priceLabel" : "$0.10",
+              "quantity" : 1,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-demona-scourge-of-the-wyvern-clan-4",
+              "name" : "Demona - Scourge of the Wyvern Clan",
+              "priceLabel" : "$25.57",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-kuzco-selfish-emperor-2",
+              "name" : "Kuzco - Selfish Emperor",
+              "priceLabel" : "$0.30",
+              "quantity" : 2,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-hades-infernal-schemer-4",
+              "name" : "Hades - Infernal Schemer",
+              "priceLabel" : "$9.65",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "items-junior-woodchuck-guidebook-3",
+              "name" : "Junior Woodchuck Guidebook",
+              "priceLabel" : "$0.11",
+              "quantity" : 3,
+              "section" : "Items"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "actions-hypnotic-strength-2",
+              "name" : "Hypnotic Strength",
+              "priceLabel" : "$0.11",
+              "quantity" : 2,
+              "section" : "Actions"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "actions-sail-the-azurite-sea-4",
+              "name" : "Sail the Azurite Sea",
+              "priceLabel" : "$1.19",
+              "quantity" : 4,
+              "section" : "Actions"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "songs-into-the-unknown-3",
+              "name" : "Into the Unknown",
+              "priceLabel" : "$2.72",
+              "quantity" : 3,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "songs-let-it-go-4",
+              "name" : "Let It Go",
+              "priceLabel" : "$0.51",
+              "quantity" : 4,
+              "section" : "Songs"
+            }
+          ],
+          "downloadedAt" : "2026-04-25T11:09:43.362Z",
+          "summary" : {
+            "archetype" : "Evasive",
+            "author" : "Playing Ducks | DerHut",
+            "detailURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/deck-ducks-fair-overall-510122",
+            "eventName" : "Spieltag 4 Division 1: Playing Ducks - 7 Serpents TCG @Luminari Teamliga",
+            "formatLabel" : "Core",
+            "id" : "ducks-fair-overall-playing-ducks-derhut-2026-04-21",
+            "metaLabel" : "11%",
+            "playedOn" : "2026-04-21",
+            "playersLabel" : "6 Players",
+            "priceLabel" : "$351.29",
+            "setCode" : "11",
+            "title" : "Ducks_Fair_Overall"
+          }
+        }
+      ],
+      "downloadedAt" : "2026-04-25T11:08:55.535Z",
+      "format" : "core"
+    },
+    {
+      "decks" : [
+        {
+          "cards" : [
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-diablo-maleficent-s-spy-4",
+              "name" : "Diablo - Maleficent's Spy",
+              "priceLabel" : "$0.07",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-diablo-obedient-raven-4",
+              "name" : "Diablo - Obedient Raven",
+              "priceLabel" : "$1.26",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-diablo-spiteful-raven-4",
+              "name" : "Diablo - Spiteful Raven",
+              "priceLabel" : "$0.12",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-ursula-deceiver-4",
+              "name" : "Ursula - Deceiver",
+              "priceLabel" : "$0.18",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-diablo-devoted-herald-4",
+              "name" : "Diablo - Devoted Herald",
+              "priceLabel" : "$8.58",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-madam-mim-fox-3",
+              "name" : "Madam Mim - Fox",
+              "priceLabel" : "$0.37",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-merlin-crab-3",
+              "name" : "Merlin - Crab",
+              "priceLabel" : "$0.10",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-peter-pan-shadow-finder-3",
+              "name" : "Peter Pan - Shadow Finder",
+              "priceLabel" : "$0.33",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-dumbo-ninth-wonder-of-the-universe-4",
+              "name" : "Dumbo - Ninth Wonder of the Universe",
+              "priceLabel" : "$33.33",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-genie-of-the-lamp-2",
+              "name" : "Genie - Of the Lamp",
+              "priceLabel" : "$0.62",
+              "quantity" : 2,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-genie-wish-fulfilled-2",
+              "name" : "Genie - Wish Fulfilled",
+              "priceLabel" : "$3.43",
+              "quantity" : 2,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-elsa-the-fifth-spirit-4",
+              "name" : "Elsa - The Fifth Spirit",
+              "priceLabel" : "$1.58",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-hades-looking-for-a-deal-1",
+              "name" : "Hades - Looking for a Deal",
+              "priceLabel" : "$17.76",
+              "quantity" : 1,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "items-snow-fort-2",
+              "name" : "Snow Fort",
+              "priceLabel" : "$0.21",
+              "quantity" : 2,
+              "section" : "Items"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "actions-pull-the-lever-4",
+              "name" : "Pull the Lever!",
+              "priceLabel" : "$0.13",
+              "quantity" : 4,
+              "section" : "Actions"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "actions-wrong-lever-3",
+              "name" : "Wrong Lever!",
+              "priceLabel" : "$0.70",
+              "quantity" : 3,
+              "section" : "Actions"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "songs-friends-on-the-other-side-4",
+              "name" : "Friends on the Other Side",
+              "priceLabel" : "$0.15",
+              "quantity" : 4,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "songs-we-don-t-talk-about-bruno-2",
+              "name" : "We Don't Talk About Bruno",
+              "priceLabel" : "$0.38",
+              "quantity" : 2,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "locations-the-library-a-gift-for-belle-3",
+              "name" : "The Library - A Gift for Belle",
+              "priceLabel" : "$0.20",
+              "quantity" : 3,
+              "section" : "Locations"
+            }
+          ],
+          "downloadedAt" : "2026-04-25T11:09:44.977Z",
+          "summary" : {
+            "archetype" : "ICL Season 3 Round 9 @ICL",
+            "author" : "Garrett Martin",
+            "detailURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/deck-ea-sports-510233",
+            "eventName" : "Other",
+            "formatLabel" : "Infinity",
+            "id" : "ea-sports-garrett-martin-2026-04-22",
+            "metaLabel" : "80%",
+            "playedOn" : "2026-04-22",
+            "playersLabel" : "50 Players",
+            "priceLabel" : "$213.88",
+            "setCode" : "11",
+            "title" : "EA Sports"
+          }
+        },
+        {
+          "cards" : [
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-chernabog-s-followers-creatures-of-evil-4",
+              "name" : "Chernabog's Followers - Creatures of Evil",
+              "priceLabel" : "$0.21",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-magic-broom-illuminary-keeper-4",
+              "name" : "Magic Broom - Illuminary Keeper",
+              "priceLabel" : "$0.18",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-tipo-growing-son-4",
+              "name" : "Tipo - Growing Son",
+              "priceLabel" : "$1.23",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-madam-mim-fox-4",
+              "name" : "Madam Mim - Fox",
+              "priceLabel" : "$0.37",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-belle-snowfield-strategist-3",
+              "name" : "Belle - Snowfield Strategist",
+              "priceLabel" : "$0.63",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-genie-wish-fulfilled-3",
+              "name" : "Genie - Wish Fulfilled",
+              "priceLabel" : "$3.43",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-merlin-goat-4",
+              "name" : "Merlin - Goat",
+              "priceLabel" : "$0.20",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-merlin-rabbit-3",
+              "name" : "Merlin - Rabbit",
+              "priceLabel" : "$0.24",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-belle-accomplished-mystic-2",
+              "name" : "Belle - Accomplished Mystic",
+              "priceLabel" : "$0.38",
+              "quantity" : 2,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-cogsworth-grandfather-clock-3",
+              "name" : "Cogsworth - Grandfather Clock",
+              "priceLabel" : "$0.33",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-elsa-the-fifth-spirit-4",
+              "name" : "Elsa - The Fifth Spirit",
+              "priceLabel" : "$1.58",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-scuttle-birdbrained-3",
+              "name" : "Scuttle - Birdbrained",
+              "priceLabel" : "$0.10",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-demona-scourge-of-the-wyvern-clan-3",
+              "name" : "Demona - Scourge of the Wyvern Clan",
+              "priceLabel" : "$25.57",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-hades-infernal-schemer-4",
+              "name" : "Hades - Infernal Schemer",
+              "priceLabel" : "$9.65",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "actions-sail-the-azurite-sea-4",
+              "name" : "Sail the Azurite Sea",
+              "priceLabel" : "$1.19",
+              "quantity" : 4,
+              "section" : "Actions"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "songs-friends-on-the-other-side-4",
+              "name" : "Friends on the Other Side",
+              "priceLabel" : "$0.15",
+              "quantity" : 4,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "songs-let-it-go-4",
+              "name" : "Let It Go",
+              "priceLabel" : "$0.51",
+              "quantity" : 4,
+              "section" : "Songs"
+            }
+          ],
+          "downloadedAt" : "2026-04-25T11:09:46.546Z",
+          "summary" : {
+            "archetype" : "ICL Season 3 Round 9 @ICL",
+            "author" : "SaltyDuckTrevor",
+            "detailURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/deck-salty-ducks-510234",
+            "eventName" : "Other",
+            "formatLabel" : "Infinity",
+            "id" : "salty-ducks-saltyducktrevor-2026-04-22",
+            "metaLabel" : "54%",
+            "playedOn" : "2026-04-22",
+            "playersLabel" : "50 Players",
+            "priceLabel" : "$153.37",
+            "setCode" : "11",
+            "title" : "Salty Ducks"
+          }
+        },
+        {
+          "cards" : [
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-daisy-duck-donald-s-date-4",
+              "name" : "Daisy Duck - Donald's Date",
+              "priceLabel" : "$4.95",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-eilonwy-princess-of-llyr-4",
+              "name" : "Eilonwy - Princess of Llyr",
+              "priceLabel" : "$0.12",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-lady-decisive-dog-4",
+              "name" : "Lady - Decisive Dog",
+              "priceLabel" : "$1.08",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-webby-vanderquack-mystery-enthusiast-4",
+              "name" : "Webby Vanderquack - Mystery Enthusiast",
+              "priceLabel" : "$0.08",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-go-go-tomago-darting-dynamo-4",
+              "name" : "Go Go Tomago - Darting Dynamo",
+              "priceLabel" : "$2.28",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-mulan-resourceful-recruit-4",
+              "name" : "Mulan - Resourceful Recruit",
+              "priceLabel" : "$0.78",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-piglet-pooh-pirate-captain-4",
+              "name" : "Piglet - Pooh Pirate Captain",
+              "priceLabel" : "$0.63",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-tramp-enterprising-dog-4",
+              "name" : "Tramp - Enterprising Dog",
+              "priceLabel" : "$3.33",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-ursula-deceiver-4",
+              "name" : "Ursula - Deceiver",
+              "priceLabel" : "$0.18",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-archimedes-resourceful-owl-2",
+              "name" : "Archimedes - Resourceful Owl",
+              "priceLabel" : "$0.11",
+              "quantity" : 2,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-rajah-devoted-protector-4",
+              "name" : "Rajah - Devoted Protector",
+              "priceLabel" : "$0.09",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-rapunzel-gifted-with-healing-4",
+              "name" : "Rapunzel - Gifted with Healing",
+              "priceLabel" : "$16.45",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-webby-vanderquack-junior-prospector-4",
+              "name" : "Webby Vanderquack - Junior Prospector",
+              "priceLabel" : "$5.58",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-cri-kee-lucky-cricket-2",
+              "name" : "Cri-Kee - Lucky Cricket",
+              "priceLabel" : "$0.22",
+              "quantity" : 2,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-lady-miss-park-avenue-4",
+              "name" : "Lady - Miss Park Avenue",
+              "priceLabel" : "$3.66",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "items-snow-fort-4",
+              "name" : "Snow Fort",
+              "priceLabel" : "$0.21",
+              "quantity" : 4,
+              "section" : "Items"
+            }
+          ],
+          "downloadedAt" : "2026-04-25T11:09:48.203Z",
+          "summary" : {
+            "archetype" : "ICL Season 3 Round 9 @ICL",
+            "author" : "Braden",
+            "detailURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/deck-braden-510227",
+            "eventName" : "Other",
+            "formatLabel" : "Infinity",
+            "id" : "braden-braden-2026-04-22",
+            "metaLabel" : "69%",
+            "playedOn" : "2026-04-22",
+            "playersLabel" : "50 Players",
+            "priceLabel" : "$159.10",
+            "setCode" : "11",
+            "title" : "Braden"
+          }
+        },
+        {
+          "cards" : [
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-oswald-the-lucky-rabbit-4",
+              "name" : "Oswald - The Lucky Rabbit",
+              "priceLabel" : "$2.18",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-ursula-deceiver-3",
+              "name" : "Ursula - Deceiver",
+              "priceLabel" : "$0.18",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-belle-apprentice-inventor-4",
+              "name" : "Belle - Apprentice Inventor",
+              "priceLabel" : "$0.14",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-kit-cloudkicker-tough-guy-4",
+              "name" : "Kit Cloudkicker - Tough Guy",
+              "priceLabel" : "$0.06",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-louis-endearing-alligator-2",
+              "name" : "Louis - Endearing Alligator",
+              "priceLabel" : "$0.11",
+              "quantity" : 2,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-scrooge-mcduck-resourceful-miser-4",
+              "name" : "Scrooge McDuck - Resourceful Miser",
+              "priceLabel" : "$4.82",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-tamatoa-happy-as-a-clam-2",
+              "name" : "Tamatoa - Happy as a Clam",
+              "priceLabel" : "$7.49",
+              "quantity" : 2,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-tamatoa-so-shiny-2",
+              "name" : "Tamatoa - So Shiny!",
+              "priceLabel" : "$0.71",
+              "quantity" : 2,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "items-pawpsicle-4",
+              "name" : "Pawpsicle",
+              "priceLabel" : "$0.22",
+              "quantity" : 4,
+              "section" : "Items"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "items-galactic-communicator-2",
+              "name" : "Galactic Communicator",
+              "priceLabel" : "$0.04",
+              "quantity" : 2,
+              "section" : "Items"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "items-hidden-inkcaster-3",
+              "name" : "Hidden Inkcaster",
+              "priceLabel" : "$0.06",
+              "quantity" : 3,
+              "section" : "Items"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "items-inkrunner-4",
+              "name" : "Inkrunner",
+              "priceLabel" : "$0.13",
+              "quantity" : 4,
+              "section" : "Items"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "items-sapphire-coil-4",
+              "name" : "Sapphire Coil",
+              "priceLabel" : "$0.11",
+              "quantity" : 4,
+              "section" : "Items"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "items-signed-contract-3",
+              "name" : "Signed Contract",
+              "priceLabel" : "$0.04",
+              "quantity" : 3,
+              "section" : "Items"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "items-fishbone-quill-4",
+              "name" : "Fishbone Quill",
+              "priceLabel" : "$0.94",
+              "quantity" : 4,
+              "section" : "Items"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "items-maurice-s-workshop-4",
+              "name" : "Maurice's Workshop",
+              "priceLabel" : "$0.44",
+              "quantity" : 4,
+              "section" : "Items"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "items-ratigan-s-marvelous-trap-2",
+              "name" : "Ratigan's Marvelous Trap",
+              "priceLabel" : "$0.18",
+              "quantity" : 2,
+              "section" : "Items"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "items-lucky-dime-1",
+              "name" : "Lucky Dime",
+              "priceLabel" : "$1.59",
+              "quantity" : 1,
+              "section" : "Items"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "songs-under-the-sea-4",
+              "name" : "Under the Sea",
+              "priceLabel" : "$0.52",
+              "quantity" : 4,
+              "section" : "Songs"
+            }
+          ],
+          "downloadedAt" : "2026-04-25T11:09:49.850Z",
+          "summary" : {
+            "archetype" : "ICL Season 3 Round 9 @ICL",
+            "author" : "Jackson Spears",
+            "detailURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/deck-lorcana-lazyboys-510225",
+            "eventName" : "Other",
+            "formatLabel" : "Infinity",
+            "id" : "lorcana-lazyboys-jackson-spears-2026-04-22",
+            "metaLabel" : "95%",
+            "playedOn" : "2026-04-22",
+            "playersLabel" : "50 Players",
+            "priceLabel" : "$57.55",
+            "setCode" : "11",
+            "title" : "Lorcana Lazyboys"
+          }
+        },
+        {
+          "cards" : [
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-daisy-duck-donald-s-date-4",
+              "name" : "Daisy Duck - Donald's Date",
+              "priceLabel" : "$4.95",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-lilo-making-a-wish-4",
+              "name" : "Lilo - Making a Wish",
+              "priceLabel" : "$1.20",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-maleficent-biding-her-time-4",
+              "name" : "Maleficent - Biding Her Time",
+              "priceLabel" : "$0.64",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-christopher-robin-joining-the-fun-4",
+              "name" : "Christopher Robin - Joining the Fun",
+              "priceLabel" : "$0.17",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-honeymaren-northuldra-guide-4",
+              "name" : "Honeymaren - Northuldra Guide",
+              "priceLabel" : "$0.10",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-piglet-pooh-pirate-captain-4",
+              "name" : "Piglet - Pooh Pirate Captain",
+              "priceLabel" : "$0.63",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-pocahontas-following-the-wind-4",
+              "name" : "Pocahontas - Following the Wind",
+              "priceLabel" : "$1.25",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-baloo-von-bruinwald-xiii-4",
+              "name" : "Baloo - von Bruinwald XIII",
+              "priceLabel" : "$0.23",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-donald-duck-musketeer-soldier-4",
+              "name" : "Donald Duck - Musketeer Soldier",
+              "priceLabel" : "$0.19",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-the-white-rose-jewel-of-the-garden-4",
+              "name" : "The White Rose - Jewel of the Garden",
+              "priceLabel" : "$0.15",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-merlin-goat-4",
+              "name" : "Merlin - Goat",
+              "priceLabel" : "$0.20",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "items-amethyst-chromicon-4",
+              "name" : "Amethyst Chromicon",
+              "priceLabel" : "$0.27",
+              "quantity" : 4,
+              "section" : "Items"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "actions-gathering-knowledge-and-wisdom-4",
+              "name" : "Gathering Knowledge and Wisdom",
+              "priceLabel" : "$0.16",
+              "quantity" : 4,
+              "section" : "Actions"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "songs-this-is-my-family-4",
+              "name" : "This Is My Family",
+              "priceLabel" : "$0.11",
+              "quantity" : 4,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "locations-zootopia-tundratown-4",
+              "name" : "Zootopia - Tundratown",
+              "priceLabel" : "$0.04",
+              "quantity" : 4,
+              "section" : "Locations"
+            }
+          ],
+          "downloadedAt" : "2026-04-25T11:09:51.487Z",
+          "summary" : {
+            "archetype" : "ICL Season 3 Round 9 @ICL",
+            "author" : "SaltyDuck Jacob",
+            "detailURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/deck-saltyducks-510230",
+            "eventName" : "Other",
+            "formatLabel" : "Infinity",
+            "id" : "saltyducks-saltyduck-jacob-2026-04-22",
+            "metaLabel" : "97%",
+            "playedOn" : "2026-04-22",
+            "playersLabel" : "50 Players",
+            "priceLabel" : "$41.08",
+            "setCode" : "11",
+            "title" : "SaltyDucks"
+          }
+        },
+        {
+          "cards" : [
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-diablo-maleficent-s-spy-4",
+              "name" : "Diablo - Maleficent's Spy",
+              "priceLabel" : "$0.07",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-morph-space-goo-4",
+              "name" : "Morph - Space Goo",
+              "priceLabel" : "$0.70",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-ursula-deceiver-4",
+              "name" : "Ursula - Deceiver",
+              "priceLabel" : "$0.18",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-diablo-devoted-herald-4",
+              "name" : "Diablo - Devoted Herald",
+              "priceLabel" : "$8.58",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-fred-major-science-enthusiast-1",
+              "name" : "Fred - Major Science Enthusiast",
+              "priceLabel" : "$0.07",
+              "quantity" : 1,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-max-goof-rebellious-teen-3",
+              "name" : "Max Goof - Rebellious Teen",
+              "priceLabel" : "$0.50",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "characters-pete-games-referee-4",
+              "name" : "Pete - Games Referee",
+              "priceLabel" : "$0.31",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-prince-john-greediest-of-all-3",
+              "name" : "Prince John - Greediest of All",
+              "priceLabel" : "$0.73",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-ursula-deceiver-of-all-4",
+              "name" : "Ursula - Deceiver of All",
+              "priceLabel" : "$2.91",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-the-muses-proclaimers-of-heroes-3",
+              "name" : "The Muses - Proclaimers of Heroes",
+              "priceLabel" : "$0.35",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "characters-beast-tragic-hero-3",
+              "name" : "Beast - Tragic Hero",
+              "priceLabel" : "$7.76",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "characters-pete-space-pirate-2",
+              "name" : "Pete - Space Pirate",
+              "priceLabel" : "$0.38",
+              "quantity" : 2,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "items-snow-fort-1",
+              "name" : "Snow Fort",
+              "priceLabel" : "$0.21",
+              "quantity" : 1,
+              "section" : "Items"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "songs-has-set-my-heaaaaaaart-1",
+              "name" : "Has Set My Heaaaaaaart . . .",
+              "priceLabel" : "$0",
+              "quantity" : 1,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "songs-keep-the-ancient-ways-2",
+              "name" : "Keep the Ancient Ways",
+              "priceLabel" : "$0.08",
+              "quantity" : 2,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "songs-sudden-chill-4",
+              "name" : "Sudden Chill",
+              "priceLabel" : "$0.07",
+              "quantity" : 4,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "songs-let-the-storm-rage-on-4",
+              "name" : "Let the Storm Rage On",
+              "priceLabel" : "$0.32",
+              "quantity" : 4,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "songs-strength-of-a-raging-fire-4",
+              "name" : "Strength of a Raging Fire",
+              "priceLabel" : "$2.42",
+              "quantity" : 4,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "songs-we-don-t-talk-about-bruno-4",
+              "name" : "We Don't Talk About Bruno",
+              "priceLabel" : "$0.38",
+              "quantity" : 4,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "songs-beyond-the-horizon-1",
+              "name" : "Beyond the Horizon",
+              "priceLabel" : "$0.23",
+              "quantity" : 1,
+              "section" : "Songs"
+            }
+          ],
+          "downloadedAt" : "2026-04-25T11:09:53.123Z",
+          "summary" : {
+            "archetype" : "Discard",
+            "author" : "Ryan Fan",
+            "detailURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/deck-gs-510228",
+            "eventName" : "ICL Season 3 Round 9 @ICL",
+            "formatLabel" : "Infinity",
+            "id" : "gs-ryan-fan-2026-04-22",
+            "metaLabel" : "60%",
+            "playedOn" : "2026-04-22",
+            "playersLabel" : "50 Players",
+            "priceLabel" : "$92.96",
+            "setCode" : "11",
+            "title" : "GS"
+          }
+        },
+        {
+          "cards" : [
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-darkwing-duck-drake-mallard-4",
+              "name" : "Darkwing Duck - Drake Mallard",
+              "priceLabel" : "$0.09",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-tipo-growing-son-4",
+              "name" : "Tipo - Growing Son",
+              "priceLabel" : "$1.23",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "characters-pete-games-referee-4",
+              "name" : "Pete - Games Referee",
+              "priceLabel" : "$0.31",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "characters-angel-experiment-624-2",
+              "name" : "Angel - Experiment 624",
+              "priceLabel" : "$31.05",
+              "quantity" : 2,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-kida-creative-thinker-4",
+              "name" : "Kida - Creative Thinker",
+              "priceLabel" : "$0.75",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "characters-beast-tragic-hero-3",
+              "name" : "Beast - Tragic Hero",
+              "priceLabel" : "$7.76",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-cogsworth-grandfather-clock-4",
+              "name" : "Cogsworth - Grandfather Clock",
+              "priceLabel" : "$0.33",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-moana-curious-explorer-2",
+              "name" : "Moana - Curious Explorer",
+              "priceLabel" : "$12.46",
+              "quantity" : 2,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-scuttle-birdbrained-4",
+              "name" : "Scuttle - Birdbrained",
+              "priceLabel" : "$0.10",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "characters-tinker-bell-giant-fairy-4",
+              "name" : "Tinker Bell - Giant Fairy",
+              "priceLabel" : "$0.63",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-hades-infernal-schemer-2",
+              "name" : "Hades - Infernal Schemer",
+              "priceLabel" : "$9.65",
+              "quantity" : 2,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "items-fishbone-quill-4",
+              "name" : "Fishbone Quill",
+              "priceLabel" : "$0.94",
+              "quantity" : 4,
+              "section" : "Items"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "actions-fire-the-cannons-2",
+              "name" : "Fire the Cannons!",
+              "priceLabel" : "$0.08",
+              "quantity" : 2,
+              "section" : "Actions"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "actions-sail-the-azurite-sea-4",
+              "name" : "Sail the Azurite Sea",
+              "priceLabel" : "$1.19",
+              "quantity" : 4,
+              "section" : "Actions"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "songs-and-then-along-came-zeus-2",
+              "name" : "And Then Along Came Zeus",
+              "priceLabel" : "$1.42",
+              "quantity" : 2,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "songs-a-whole-new-world-4",
+              "name" : "A Whole New World",
+              "priceLabel" : "$1.79",
+              "quantity" : 4,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "songs-grab-your-sword-2",
+              "name" : "Grab Your Sword",
+              "priceLabel" : "$0.30",
+              "quantity" : 2,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "songs-let-it-go-2",
+              "name" : "Let It Go",
+              "priceLabel" : "$0.51",
+              "quantity" : 2,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "locations-mcduck-manor-scrooge-s-mansion-4",
+              "name" : "McDuck Manor - Scrooge's Mansion",
+              "priceLabel" : "$0.12",
+              "quantity" : 4,
+              "section" : "Locations"
+            }
+          ],
+          "downloadedAt" : "2026-04-25T11:09:54.766Z",
+          "summary" : {
+            "archetype" : "ICL Season 3 Round 9 @ICL",
+            "author" : "Darryl Donaldson",
+            "detailURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/deck-ink-inc-510226",
+            "eventName" : "Other",
+            "formatLabel" : "Infinity",
+            "id" : "ink-inc-darryl-donaldson-2026-04-22",
+            "metaLabel" : "68%",
+            "playedOn" : "2026-04-22",
+            "playersLabel" : "50 Players",
+            "priceLabel" : "$164.78",
+            "setCode" : "11",
+            "title" : "Ink Inc"
+          }
+        },
+        {
+          "cards" : [
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-tipo-growing-son-4",
+              "name" : "Tipo - Growing Son",
+              "priceLabel" : "$1.23",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-belle-apprentice-inventor-4",
+              "name" : "Belle - Apprentice Inventor",
+              "priceLabel" : "$0.14",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "characters-pete-games-referee-2",
+              "name" : "Pete - Games Referee",
+              "priceLabel" : "$0.31",
+              "quantity" : 2,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-scrooge-mcduck-resourceful-miser-4",
+              "name" : "Scrooge McDuck - Resourceful Miser",
+              "priceLabel" : "$4.82",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-wasabi-methodical-engineer-1",
+              "name" : "Wasabi - Methodical Engineer",
+              "priceLabel" : "$0.09",
+              "quantity" : 1,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-scuttle-birdbrained-1",
+              "name" : "Scuttle - Birdbrained",
+              "priceLabel" : "$0.10",
+              "quantity" : 1,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-ariel-treasure-collector-1",
+              "name" : "Ariel - Treasure Collector",
+              "priceLabel" : "$0.27",
+              "quantity" : 1,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-tamatoa-happy-as-a-clam-4",
+              "name" : "Tamatoa - Happy as a Clam",
+              "priceLabel" : "$7.49",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-hades-infernal-schemer-2",
+              "name" : "Hades - Infernal Schemer",
+              "priceLabel" : "$9.65",
+              "quantity" : 2,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "characters-tamatoa-so-shiny-3",
+              "name" : "Tamatoa - So Shiny!",
+              "priceLabel" : "$0.71",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "items-blue-smoke-1",
+              "name" : "Blue Smoke",
+              "priceLabel" : "$0.03",
+              "quantity" : 1,
+              "section" : "Items"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "items-fortisphere-4",
+              "name" : "Fortisphere",
+              "priceLabel" : "$0.09",
+              "quantity" : 4,
+              "section" : "Items"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "items-pawpsicle-4",
+              "name" : "Pawpsicle",
+              "priceLabel" : "$0.22",
+              "quantity" : 4,
+              "section" : "Items"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "items-inkrunner-1",
+              "name" : "Inkrunner",
+              "priceLabel" : "$0.13",
+              "quantity" : 1,
+              "section" : "Items"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "items-fishbone-quill-2",
+              "name" : "Fishbone Quill",
+              "priceLabel" : "$0.94",
+              "quantity" : 2,
+              "section" : "Items"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "items-ingenious-device-1",
+              "name" : "Ingenious Device",
+              "priceLabel" : "$0.13",
+              "quantity" : 1,
+              "section" : "Items"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "items-maurice-s-workshop-2",
+              "name" : "Maurice's Workshop",
+              "priceLabel" : "$0.44",
+              "quantity" : 2,
+              "section" : "Items"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "items-lucky-dime-2",
+              "name" : "Lucky Dime",
+              "priceLabel" : "$1.59",
+              "quantity" : 2,
+              "section" : "Items"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "actions-sail-the-azurite-sea-4",
+              "name" : "Sail the Azurite Sea",
+              "priceLabel" : "$1.19",
+              "quantity" : 4,
+              "section" : "Actions"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "actions-spooky-sight-1",
+              "name" : "Spooky Sight",
+              "priceLabel" : "$0.39",
+              "quantity" : 1,
+              "section" : "Actions"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "songs-let-the-storm-rage-on-4",
+              "name" : "Let the Storm Rage On",
+              "priceLabel" : "$0.32",
+              "quantity" : 4,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Acier",
+              "id" : "songs-strength-of-a-raging-fire-4",
+              "name" : "Strength of a Raging Fire",
+              "priceLabel" : "$2.42",
+              "quantity" : 4,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "songs-let-it-go-3",
+              "name" : "Let It Go",
+              "priceLabel" : "$0.51",
+              "quantity" : 3,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Saphir",
+              "id" : "locations-mcduck-manor-scrooge-s-mansion-1",
+              "name" : "McDuck Manor - Scrooge's Mansion",
+              "priceLabel" : "$0.12",
+              "quantity" : 1,
+              "section" : "Locations"
+            }
+          ],
+          "downloadedAt" : "2026-04-25T11:09:56.415Z",
+          "summary" : {
+            "archetype" : "Items",
+            "author" : "Jamal",
+            "detailURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/deck-blue-mishap-510211",
+            "eventName" : "ICL Season 3 Round 9 @ICL",
+            "formatLabel" : "Infinity",
+            "id" : "blue-mishap-jamal-2026-04-22",
+            "metaLabel" : "70%",
+            "playedOn" : "2026-04-22",
+            "playersLabel" : "50 Players",
+            "priceLabel" : "$102.28",
+            "setCode" : "11",
+            "title" : "Blue mishap"
+          }
+        },
+        {
+          "cards" : [
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-cinderella-ballroom-sensation-4",
+              "name" : "Cinderella - Ballroom Sensation",
+              "priceLabel" : "$1.97",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-diablo-maleficent-s-spy-4",
+              "name" : "Diablo - Maleficent's Spy",
+              "priceLabel" : "$0.07",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-mowgli-man-cub-2",
+              "name" : "Mowgli - Man Cub",
+              "priceLabel" : "$2.50",
+              "quantity" : 2,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-ursula-deceiver-4",
+              "name" : "Ursula - Deceiver",
+              "priceLabel" : "$0.18",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-ariel-spectacular-singer-4",
+              "name" : "Ariel - Spectacular Singer",
+              "priceLabel" : "$1.64",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-diablo-devoted-herald-4",
+              "name" : "Diablo - Devoted Herald",
+              "priceLabel" : "$8.58",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-prince-john-greediest-of-all-4",
+              "name" : "Prince John - Greediest of All",
+              "priceLabel" : "$0.73",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-the-muses-proclaimers-of-heroes-4",
+              "name" : "The Muses - Proclaimers of Heroes",
+              "priceLabel" : "$0.35",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "characters-kida-protector-of-atlantis-2",
+              "name" : "Kida - Protector of Atlantis",
+              "priceLabel" : "$1.10",
+              "quantity" : 2,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-lady-tremaine-wicked-stepmother-1",
+              "name" : "Lady Tremaine - Wicked Stepmother",
+              "priceLabel" : "$0.17",
+              "quantity" : 1,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-tramp-street-smart-dog-4",
+              "name" : "Tramp - Street-Smart Dog",
+              "priceLabel" : "$1.13",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "actions-you-have-forgotten-me-1",
+              "name" : "You Have Forgotten Me",
+              "priceLabel" : "$0.20",
+              "quantity" : 1,
+              "section" : "Actions"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "songs-painting-the-roses-red-4",
+              "name" : "Painting the Roses Red",
+              "priceLabel" : "$0.06",
+              "quantity" : 4,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "songs-sudden-chill-4",
+              "name" : "Sudden Chill",
+              "priceLabel" : "$0.07",
+              "quantity" : 4,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "songs-the-bare-necessities-3",
+              "name" : "The Bare Necessities",
+              "priceLabel" : "$0.39",
+              "quantity" : 3,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "songs-akood-et-emuti-4",
+              "name" : "Akood et Emuti",
+              "priceLabel" : "$1.95",
+              "quantity" : 4,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "songs-or-rewrite-history-1",
+              "name" : "Or Rewrite History!",
+              "priceLabel" : "$0.07",
+              "quantity" : 1,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Ambre",
+              "id" : "songs-world-s-greatest-criminal-mind-1",
+              "name" : "World's Greatest Criminal Mind",
+              "priceLabel" : "$0.11",
+              "quantity" : 1,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "songs-you-re-welcome-1",
+              "name" : "You're Welcome",
+              "priceLabel" : "$0.34",
+              "quantity" : 1,
+              "section" : "Songs"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "songs-under-the-sea-4",
+              "name" : "Under the Sea",
+              "priceLabel" : "$0.52",
+              "quantity" : 4,
+              "section" : "Songs"
+            }
+          ],
+          "downloadedAt" : "2026-04-25T11:09:58.068Z",
+          "summary" : {
+            "archetype" : "Discard",
+            "author" : "Clara",
+            "detailURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/deck-sunflower-illumineers-510261",
+            "eventName" : "ICL Season 3 Round 9 @ICL",
+            "formatLabel" : "Infinity",
+            "id" : "sunflower-illumineers-clara-2026-04-22",
+            "metaLabel" : "85%",
+            "playedOn" : "2026-04-22",
+            "playersLabel" : "50 Players",
+            "priceLabel" : "$77.89",
+            "setCode" : "11",
+            "title" : "Sunflower Illumineers"
+          }
+        },
+        {
+          "cards" : [
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-cursed-merfolk-ursula-s-handiwork-4",
+              "name" : "Cursed Merfolk - Ursula's Handiwork",
+              "priceLabel" : "$0.41",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-diablo-obedient-raven-4",
+              "name" : "Diablo - Obedient Raven",
+              "priceLabel" : "$1.26",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-pegasus-gift-for-hercules-3",
+              "name" : "Pegasus - Gift for Hercules",
+              "priceLabel" : "$0.06",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-go-go-tomago-darting-dynamo-3",
+              "name" : "Go Go Tomago - Darting Dynamo",
+              "priceLabel" : "$2.28",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-madam-mim-snake-3",
+              "name" : "Madam Mim - Snake",
+              "priceLabel" : "$0.08",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-ursula-deceiver-4",
+              "name" : "Ursula - Deceiver",
+              "priceLabel" : "$0.18",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-white-rabbit-late-again-2",
+              "name" : "White Rabbit - Late Again",
+              "priceLabel" : "$0.13",
+              "quantity" : 2,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "characters-kit-cloudkicker-tough-guy-3",
+              "name" : "Kit Cloudkicker - Tough Guy",
+              "priceLabel" : "$0.06",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-madam-mim-fox-4",
+              "name" : "Madam Mim - Fox",
+              "priceLabel" : "$0.37",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-merlin-crab-4",
+              "name" : "Merlin - Crab",
+              "priceLabel" : "$0.10",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-peter-pan-shadow-finder-3",
+              "name" : "Peter Pan - Shadow Finder",
+              "priceLabel" : "$0.33",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-dumbo-ninth-wonder-of-the-universe-3",
+              "name" : "Dumbo - Ninth Wonder of the Universe",
+              "priceLabel" : "$33.33",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-genie-wish-fulfilled-4",
+              "name" : "Genie - Wish Fulfilled",
+              "priceLabel" : "$3.43",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-iago-giant-spectral-parrot-3",
+              "name" : "Iago - Giant Spectral Parrot",
+              "priceLabel" : "$1.42",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-merlin-goat-4",
+              "name" : "Merlin - Goat",
+              "priceLabel" : "$0.20",
+              "quantity" : 4,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-merlin-rabbit-3",
+              "name" : "Merlin - Rabbit",
+              "priceLabel" : "$0.24",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Améthyste",
+              "id" : "characters-elsa-the-fifth-spirit-3",
+              "name" : "Elsa - The Fifth Spirit",
+              "priceLabel" : "$1.58",
+              "quantity" : 3,
+              "section" : "Characters"
+            },
+            {
+              "colorLabel" : "Émeraude",
+              "id" : "items-snow-fort-3",
+              "name" : "Snow Fort",
+              "priceLabel" : "$0.21",
+              "quantity" : 3,
+              "section" : "Items"
+            }
+          ],
+          "downloadedAt" : "2026-04-25T11:09:59.691Z",
+          "summary" : {
+            "archetype" : "ICL Season 3 Round 9 @ICL",
+            "author" : "Regis Blahut",
+            "detailURL" : "https:\/\/inkdecks.com\/lorcana-metagame\/deck-gp-tempo-510215",
+            "eventName" : "Other",
+            "formatLabel" : "Infinity",
+            "id" : "gp-tempo-regis-blahut-2026-04-22",
+            "metaLabel" : "77%",
+            "playedOn" : "2026-04-22",
+            "playersLabel" : "50 Players",
+            "priceLabel" : "$143.53",
+            "setCode" : "11",
+            "title" : "GP Tempo"
+          }
+        }
+      ],
+      "downloadedAt" : "2026-04-25T11:08:57.117Z",
+      "format" : "infinity"
+    }
+  ]
+}
