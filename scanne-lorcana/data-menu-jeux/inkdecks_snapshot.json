@@ -3,7 +3,7 @@
 
   ],
   "fileNotes" : "Snapshot genere localement depuis des pages InkDecks sauvegardees dans un navigateur sur Mac.",
-  "generatedAt" : "2026-04-25T06:26:00.894Z",
+  "generatedAt" : "2026-04-25T07:11:15.500Z",
   "schemaVersion" : 1,
   "seasons" : [
     {
@@ -469,7 +469,7 @@
               "section" : "Songs"
             }
           ],
-          "downloadedAt" : "2026-04-25T06:20:33.556Z",
+          "downloadedAt" : "2026-04-25T07:05:49.989Z",
           "summary" : {
             "archetype" : "Challengers",
             "author" : "TSR-BBop",
@@ -616,7 +616,7 @@
               "section" : "Songs"
             }
           ],
-          "downloadedAt" : "2026-04-25T06:20:35.166Z",
+          "downloadedAt" : "2026-04-25T07:05:51.709Z",
           "summary" : {
             "archetype" : "Control",
             "author" : "TSR-Mohoo",
@@ -771,7 +771,7 @@
               "section" : "Songs"
             }
           ],
-          "downloadedAt" : "2026-04-25T06:20:36.780Z",
+          "downloadedAt" : "2026-04-25T07:05:53.269Z",
           "summary" : {
             "archetype" : "Control",
             "author" : "TSR-Henksen",
@@ -934,7 +934,7 @@
               "section" : "Items"
             }
           ],
-          "downloadedAt" : "2026-04-25T06:20:38.427Z",
+          "downloadedAt" : "2026-04-25T07:05:54.830Z",
           "summary" : {
             "archetype" : "Aggro",
             "author" : "MGG | DanW15",
@@ -1081,7 +1081,7 @@
               "section" : "Actions"
             }
           ],
-          "downloadedAt" : "2026-04-25T06:20:40.048Z",
+          "downloadedAt" : "2026-04-25T07:05:56.470Z",
           "summary" : {
             "archetype" : "Spieltag 4 Division 1: Team Secret Rare - MRO’s Glimmer Gang @Luminari Teamliga",
             "author" : "MGG MAXING",
@@ -1228,7 +1228,7 @@
               "section" : "Songs"
             }
           ],
-          "downloadedAt" : "2026-04-25T06:20:41.688Z",
+          "downloadedAt" : "2026-04-25T07:05:58.106Z",
           "summary" : {
             "archetype" : "Challengers",
             "author" : "MGG | Severin",
@@ -1383,7 +1383,7 @@
               "section" : "Items"
             }
           ],
-          "downloadedAt" : "2026-04-25T06:20:43.319Z",
+          "downloadedAt" : "2026-04-25T07:05:59.758Z",
           "summary" : {
             "archetype" : "Aggro",
             "author" : "7S McLovin",
@@ -1538,7 +1538,7 @@
               "section" : "Songs"
             }
           ],
-          "downloadedAt" : "2026-04-25T06:20:44.929Z",
+          "downloadedAt" : "2026-04-25T07:06:01.331Z",
           "summary" : {
             "archetype" : "Control",
             "author" : "Playing Ducks | Freakout",
@@ -1701,7 +1701,7 @@
               "section" : "Songs"
             }
           ],
-          "downloadedAt" : "2026-04-25T06:20:46.533Z",
+          "downloadedAt" : "2026-04-25T07:06:02.967Z",
           "summary" : {
             "archetype" : "Steelsong",
             "author" : "Playing Ducks | SchonOK",
@@ -1880,7 +1880,7 @@
               "section" : "Songs"
             }
           ],
-          "downloadedAt" : "2026-04-25T06:20:48.179Z",
+          "downloadedAt" : "2026-04-25T07:06:04.604Z",
           "summary" : {
             "archetype" : "Evasive",
             "author" : "Playing Ducks | DerHut",
@@ -1897,7 +1897,7 @@
           }
         }
       ],
-      "downloadedAt" : "2026-04-25T06:20:00.651Z",
+      "downloadedAt" : "2026-04-25T07:05:17.106Z",
       "format" : "core"
     },
     {
@@ -2057,7 +2057,7 @@
               "section" : "Locations"
             }
           ],
-          "downloadedAt" : "2026-04-25T06:20:49.793Z",
+          "downloadedAt" : "2026-04-25T07:06:06.199Z",
           "summary" : {
             "archetype" : "ICL Season 3 Round 9 @ICL",
             "author" : "Garrett Martin",
@@ -2212,7 +2212,7 @@
               "section" : "Songs"
             }
           ],
-          "downloadedAt" : "2026-04-25T06:20:51.412Z",
+          "downloadedAt" : "2026-04-25T07:06:07.796Z",
           "summary" : {
             "archetype" : "ICL Season 3 Round 9 @ICL",
             "author" : "SaltyDuckTrevor",
@@ -2359,7 +2359,7 @@
               "section" : "Items"
             }
           ],
-          "downloadedAt" : "2026-04-25T06:20:52.974Z",
+          "downloadedAt" : "2026-04-25T07:06:09.434Z",
           "summary" : {
             "archetype" : "ICL Season 3 Round 9 @ICL",
             "author" : "Braden",
@@ -2530,7 +2530,7 @@
               "section" : "Songs"
             }
           ],
-          "downloadedAt" : "2026-04-25T06:20:54.594Z",
+          "downloadedAt" : "2026-04-25T07:06:11.027Z",
           "summary" : {
             "archetype" : "ICL Season 3 Round 9 @ICL",
             "author" : "Jackson Spears",
@@ -2669,7 +2669,7 @@
               "section" : "Locations"
             }
           ],
-          "downloadedAt" : "2026-04-25T06:20:56.207Z",
+          "downloadedAt" : "2026-04-25T07:06:12.664Z",
           "summary" : {
             "archetype" : "ICL Season 3 Round 9 @ICL",
             "author" : "SaltyDuck Jacob",
@@ -2848,7 +2848,7 @@
               "section" : "Songs"
             }
           ],
-          "downloadedAt" : "2026-04-25T06:20:57.818Z",
+          "downloadedAt" : "2026-04-25T07:06:14.268Z",
           "summary" : {
             "archetype" : "Discard",
             "author" : "Ryan Fan",
@@ -3019,7 +3019,7 @@
               "section" : "Locations"
             }
           ],
-          "downloadedAt" : "2026-04-25T06:20:59.438Z",
+          "downloadedAt" : "2026-04-25T07:06:15.894Z",
           "summary" : {
             "archetype" : "ICL Season 3 Round 9 @ICL",
             "author" : "Darryl Donaldson",
@@ -3230,7 +3230,7 @@
               "section" : "Locations"
             }
           ],
-          "downloadedAt" : "2026-04-25T06:21:01.017Z",
+          "downloadedAt" : "2026-04-25T07:06:17.491Z",
           "summary" : {
             "archetype" : "Items",
             "author" : "Jamal",
@@ -3409,7 +3409,7 @@
               "section" : "Songs"
             }
           ],
-          "downloadedAt" : "2026-04-25T06:21:02.588Z",
+          "downloadedAt" : "2026-04-25T07:06:19.084Z",
           "summary" : {
             "archetype" : "Discard",
             "author" : "Clara",
@@ -3572,7 +3572,7 @@
               "section" : "Items"
             }
           ],
-          "downloadedAt" : "2026-04-25T06:21:04.225Z",
+          "downloadedAt" : "2026-04-25T07:06:20.678Z",
           "summary" : {
             "archetype" : "ICL Season 3 Round 9 @ICL",
             "author" : "Regis Blahut",
@@ -3589,7 +3589,7 @@
           }
         }
       ],
-      "downloadedAt" : "2026-04-25T06:20:02.221Z",
+      "downloadedAt" : "2026-04-25T07:05:18.680Z",
       "format" : "infinity"
     }
   ]
